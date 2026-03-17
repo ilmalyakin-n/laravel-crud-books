@@ -1,6 +1,10 @@
 # 📚 Laravel CRUD Books
 
 A simple CRUD (Create, Read, Update, Delete) application for managing book data, built with **Laravel 12**.
+## 📸 Preview
+![App Preview](https://github.com/ilmalyakinn/assets/blob/851d3cabe72703b4becc43e7ad33b8dd7b5eef73/laravel%20Crud.png)
+
+> *Book List page view with add, edit, and delete features.*
 
 ---
 
@@ -117,14 +121,6 @@ laravel-crud-books/
 │   └── web.php             # Web routes
 └── .env.example            # Environment config template
 ```
-
----
-
-## 📸 Preview
-
-
-> *Tampilan halaman Daftar Buku dengan fitur tambah, edit, dan hapus.*
-
 ---
 
 ## 📄 License
